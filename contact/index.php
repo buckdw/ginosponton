@@ -64,7 +64,7 @@
 	  <title>Contact | Gino Sponton Portfolio</title>
 
 		<!-- CSS reset -->
-	  <link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Geometric/consolidated-6.css?rwcache=696720050" />
+	  <link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Geometric/consolidated-6.css?rwcache=696724709" />
 		
 
 		<!-- CSS for the Foundation.js framework that handles the responsive layout for the theme -->
@@ -131,18 +131,18 @@
 		</script>
 
 		<!-- RapidWeaver's Javascript File -->
-	  <script src="../rw_common/themes/Geometric/javascript.js?rwcache=696720050"></script>
+	  <script src="../rw_common/themes/Geometric/javascript.js?rwcache=696724709"></script>
 
 		<!-- jQuery 1.8 is included in the theme internally -->
-	  <script src="../rw_common/themes/Geometric/js/jquery.min.js?rwcache=696720050"></script>
+	  <script src="../rw_common/themes/Geometric/js/jquery.min.js?rwcache=696724709"></script>
 
 	  <!-- Elixir specific javascript, along with jQuery Easing and a few other elements -->
-	  <script src="../rw_common/themes/Geometric/js/elixir.js?rwcache=696720050"></script>
+	  <script src="../rw_common/themes/Geometric/js/elixir.js?rwcache=696724709"></script>
 
 		<!-- Theme variations -->
-		<script src="../rw_common/themes/Geometric/js/banner/banner6.js?rwcache=696720050"></script>
-		<script src="../rw_common/themes/Geometric/js/navigation/nav_toggle_three_bars.js?rwcache=696720050"></script>
-		<script src="../rw_common/themes/Geometric/js/sidebar/sidebar_hidden.js?rwcache=696720050"></script>
+		<script src="../rw_common/themes/Geometric/js/banner/banner6.js?rwcache=696724709"></script>
+		<script src="../rw_common/themes/Geometric/js/navigation/nav_toggle_three_bars.js?rwcache=696724709"></script>
+		<script src="../rw_common/themes/Geometric/js/sidebar/sidebar_hidden.js?rwcache=696724709"></script>
 		
 
 		<!-- Plugins insert their additional code here -->
@@ -254,7 +254,7 @@
 			<textarea name="comment" rows="1" cols="1"></textarea>
 		</div>
 		<input type="hidden" name="form_token" value="<?php echo $security_token; ?>" />
-		<input class="form-input-button" type="reset" name="resetButton" value="Reset" />
+		
 		<input class="form-input-button" type="submit" name="submitButton" value="Submit" />
 	</div>
 </form>
