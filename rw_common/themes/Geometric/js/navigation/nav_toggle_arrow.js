@@ -1,0 +1,3 @@
+
+elixir.mobileNavigationToggleIcon={};elixir.mobileNavigationToggleIcon=(function(){var jQuery=elixir.jQuery;var $=jQuery;var $elixir=jQuery.noConflict();function mobileNavigationToggleIconFunction(){$elixir('#mobile_navigation_toggle_icon').addClass('fa-caret-down');$elixir('#mobile_navigation_toggle').click(function(){$elixir('#mobile_navigation').slideToggle(250);$elixir(this).find('i').toggleClass('fa-caret-down').toggleClass('fa-caret-up');});}
+$elixir(document).ready(function(){mobileNavigationToggleIconFunction();});})(elixir.mobileNavigationToggleIcon);

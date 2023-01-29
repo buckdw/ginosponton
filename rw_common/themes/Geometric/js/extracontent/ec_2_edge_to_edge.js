@@ -1,0 +1,3 @@
+
+elixir.extraContentAreaTwoEdgeToEdge={};elixir.extraContentAreaTwoEdgeToEdge=(function(){var jQuery=elixir.jQuery;var $=jQuery;var $elixir=jQuery.noConflict();function extraContentAreaTwoEdgeToEdgeFunction(){$elixir('#extrContent2_row').removeClass('row').removeClass('site_width');$elixir('#extrContent2_columns').removeClass('large-12').removeClass('columns');$elixir('#extraContent2').css({'padding':'0'});}
+$elixir(document).ready(function(){extraContentAreaTwoEdgeToEdgeFunction();});})(elixir.extraContentAreaTwoEdgeToEdge);

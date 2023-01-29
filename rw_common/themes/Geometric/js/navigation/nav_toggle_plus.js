@@ -1,0 +1,3 @@
+
+elixir.mobileNavigationToggleIcon={};elixir.mobileNavigationToggleIcon=(function(){var jQuery=elixir.jQuery;var $=jQuery;var $elixir=jQuery.noConflict();function mobileNavigationToggleIconFunction(){$elixir('#mobile_navigation_toggle_icon').addClass('fa-plus-square-o');$elixir('#mobile_navigation_toggle').click(function(){$elixir('#mobile_navigation').slideToggle(250);$elixir(this).find('i').toggleClass('fa-plus-square-o').toggleClass('fa-minus-square-o');});}
+$elixir(document).ready(function(){mobileNavigationToggleIconFunction();});})(elixir.mobileNavigationToggleIcon);

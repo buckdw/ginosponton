@@ -1,0 +1,3 @@
+
+elixir.extraContentAreaThreeEdgeToEdge={};elixir.extraContentAreaThreeEdgeToEdge=(function(){var jQuery=elixir.jQuery;var $=jQuery;var $elixir=jQuery.noConflict();function extraContentAreaThreeEdgeToEdgeFunction(){$elixir('#extrContent3_row').removeClass('row').removeClass('site_width');$elixir('#extrContent3_columns').removeClass('large-12').removeClass('columns');$elixir('#extraContent3').css({'padding':'0'});}
+$elixir(document).ready(function(){extraContentAreaThreeEdgeToEdgeFunction();});})(elixir.extraContentAreaThreeEdgeToEdge);
